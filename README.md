@@ -9,4 +9,4 @@ To Run open 2 consoles:
 3) Take the private key from one of the wallets in the console and add to your meta mask
 4) Then run: npm run dev
 
-![Alt text](NFT-video.gif) / ![](NFT-video.gif)
+![Alt text](NFT-video.gif) 
