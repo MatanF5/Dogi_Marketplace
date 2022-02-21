@@ -52,7 +52,7 @@ export default function transactionsDashBoard() {
   if (loadState === "loaded" && !NFTS.length)
     return <h1 className="py-10 px-20 text-3xl">No NFT Bought or Sold</h1>;
   return (
-    <div classNaME = "bg-red-700">
+    <div className = "bg-red-700">
       <div className="p-4">
         <h2 className="text-2xl py-2 text-blue-300">NFT Bought</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 pt-4">
